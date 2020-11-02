@@ -1,0 +1,109 @@
+nav.navbar.navbar-expand-lg.navbar-dark.bg-dark.custom_height {
+    height: 50px;
+}
+input:focus
+	{
+        
+         outline: none;
+
+	}
+	select:focus
+	{
+        
+         outline: none;
+         
+	}
+	legend.form_legend_all {
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #0a3d4c;
+       margin-left: -10px;
+}
+form.form_custom input {
+    background: #fff;
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+    height: 50px;
+}
+
+form.form_custom {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+        padding-top: 100px;
+    padding-bottom: 50px;
+}
+form.form_custom input[type=submit]
+{
+	    background: #0a3d4c !important;
+  
+    border-color: #2d6324;
+    color: #fff;
+    text-shadow: rgba(0, 0, 0, 0.5) 0 -1px 0;
+    padding: 8px 10px;
+   
+    height: 54px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+#header h1 {
+    line-height: 26px;
+    text-decoration: none;
+    margin-top: 8px;
+}
+div#navbarNav ul li a {
+    color: #fff;
+    font-size: 17px;
+    position: relative;
+    top: -8px;
+    text-decoration: none;
+}
+.navbar-dark .navbar-brand {
+   
+    text-decoration: none;
+}
+#footer {
+    clear: both;
+    padding: 5px 40px;
+    text-align: center;
+    line-height: 34px;
+    position: relative;
+    top: 10px;
+}
+div.form, div.index, div.view {
+    float: none !important; 
+    width: 100% !important;
+    border-left: transparent !important;
+    padding: 10px 2%;
+}
+.head_item {
+    font-size: 29px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a.c-custom {
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 16px;
+}
+select#ItemSubscriptionPlan {
+    width: 500px;
+    height: 50px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+select#UserRole
+{
+      width: 500px;
+    height: 50px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+}
+thead.thead-dark a {
+    color: #fff !important;
+}
